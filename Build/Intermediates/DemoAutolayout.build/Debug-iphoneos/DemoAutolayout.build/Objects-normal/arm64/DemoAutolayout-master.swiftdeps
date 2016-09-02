@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "2ad70064010036480b193eb30836ea9c"
+build_time: [526101894, 75604000]
+inputs:
+  "/Users/mosluce/Documents/Workspace/iOS/Playground/DemoAutolayout/DemoAutolayout/ViewController.swift": [526100950, 0]
+  "/Users/mosluce/Documents/Workspace/iOS/Playground/DemoAutolayout/DemoAutolayout/AppDelegate.swift": [526046932, 0]
